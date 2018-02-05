@@ -1,0 +1,34 @@
+html {
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+      }
+
+      body {
+        height: 100%;
+        padding: 0;
+        overflow: auto;
+        margin: 0;
+        -webkit-overflow-scrolling: touch;
+        font-family: 'San Francisco', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      }
+      .gm-style .gm-style-iw {
+        font-size: 12px;
+      }
+      .table-condensed>thead>tr>th, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>tbody>tr>td, .table-condensed>tfoot>tr>td {
+        padding: 1px 5px;
+      }
+      .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+        border-top: 0px;
+      }
+      .tab-pane img {
+        width: 384px;
+          height: 171px;
+          object-fit: cover;
+      }
+      .main-nav .panel-collapse {
+        /*border-bottom: */
+      }
+      .panel-dalam {
+        border-bottom: 0!important;
+      }

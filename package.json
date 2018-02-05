@@ -1,0 +1,11 @@
+{
+  "name": "command-room-smartcity",
+  "version": "1.0.0",
+  "description": "command-room-smartcity",
+  "main": "server.js",
+  "author": "HexaCrew",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}

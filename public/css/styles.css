@@ -1,0 +1,60 @@
+html{
+	background-image: url('http://mblogthumb1.phinf.naver.net/20101104_88/lmlm4864_12887972116672W76w_JPEG/oor.JPG?type=w2');
+	/* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+	color: #ffffff;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+.round-button {
+	width:50%;
+}
+.round-button-circle {
+	width: 100%;
+	height:0;
+	padding-bottom: 100%;
+  border-radius: 50%;
+	border:20px solid #d9d9d9;
+  overflow:hidden;  
+  background: #e84d0e; 
+  box-shadow: 0 0 200px #8080ff;
+}
+.round-button a {
+  display:block;
+	width:100%;
+	padding-top:50%;
+  padding-bottom:50%;
+	line-height:1em;
+	margin-top:-0.5em; 
+	text-align:center;
+	color:#ffffff;
+  font-family:Helvetica;
+  font-size:40px;
+  font-weight:bold;
+  text-decoration:none;
+}
+.navbar {
+  margin-left: -7px;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 10%;
+}
+
+.navbar h1 {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  font-size: 24px;
+}
